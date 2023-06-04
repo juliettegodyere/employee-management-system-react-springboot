@@ -6,15 +6,12 @@ This project comprises of
 - sprintboot-backend (server) – To develop REST API
 - react-frontend (client) – Consume REST API
 
-## App functionalities
-
+## Features
 - Create Employee
 - List Employee
 - Update Employee
 - Delete Employee
 - View Employee
-- Pagination
-- Sorting
 
 ## Tools and Technologies Used
 - Spring Boot - 3.0.4.RELEASE
